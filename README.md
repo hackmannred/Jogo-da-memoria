@@ -5,7 +5,7 @@
 <h1 align="center">
     <a href="https://hackmannred.github.io/Jogo-da-memoria/">JOGAR</a>
 </h1>
-<p align="center">🚀 Será adicionado um Ranking na proxima versão!
+<p align="center">🚀 Será adicionado um timer limite na proxima versão!
 
   ### 🛠 Tecnologias
 
